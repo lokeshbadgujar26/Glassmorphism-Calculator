@@ -3,7 +3,7 @@
 A high-end, responsive calculator application built using a **Glassmorphism** UI aesthetic. This project was developed as a technical demonstration of modern frontend web development for a college presentation.
 
 ## 🚀 Live Demo
-**View the App Live here:** (coming soon ...)
+**View the App Live here:** : https://lb-pro-calc.netlify.app/
 
 ---
 
@@ -36,4 +36,5 @@ A high-end, responsive calculator application built using a **Glassmorphism** UI
 ## ⚙️ How to Run Locally
 1. Clone this repository or download the ZIP.
 2. Open the `Calculator` folder.
+
 3. Double-click `index.html` to run it in any modern web browser.
